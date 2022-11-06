@@ -9,5 +9,4 @@ https://github.com/ColdDev/eaglercraft_backup
 https://github.com/3kh0/eaglercraft-import
 
 # Easy install repository
-wget mc.get-real.me
-mv index.html eaglercraft.zip
+wget mc.get-real.me && mv index.html eaglercraft.zip
