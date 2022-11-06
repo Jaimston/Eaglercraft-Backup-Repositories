@@ -1,4 +1,4 @@
-# Eaglercraft-Backup-Repositories-
+# Eaglercraft-Backup-Repositories
 list of a bunch of reuploads of eaglercraft
 
 https://github.com/eaglerarchive/eaglercraft1.5.2-final
